@@ -227,6 +227,7 @@ public class SettingsActivity extends AppCompatActivity {
      * @return 返回true表示呼起手Q成功，返回false表示呼起失败
      */
     private boolean joinQQGroup(String key) {
+
         Intent intent = new Intent();
         intent.setData(Uri.parse(
                 "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com"+
