@@ -41,6 +41,8 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 ====
 
 2016年第一天：
+----
+
 1. 在RecyclerView里面内置彩色的CardView。
 
 什么？你觉得一个更新少了？卧槽这个玩意弄起来还是很麻烦的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)啊！
