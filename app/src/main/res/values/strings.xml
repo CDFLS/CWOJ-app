@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">成外OnlineJudge</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_author">App作者：千里冰封</string>
+    <string name="about_me">大家好我是最欠の开发者冰封。\n\n这个APP其实是我拿来练手的，不过顺便起到了帮助大家快速登录CWOJ网站的作用，冰封我还是很高兴滴~~\n\n本APP全面采用Material Design，其中用到了CardView和RecyclerView，都是v7包里的新东西~♪(^∇^*)\n\n高2018级11班欢迎约炮哦~</string>
+
+</resources>
