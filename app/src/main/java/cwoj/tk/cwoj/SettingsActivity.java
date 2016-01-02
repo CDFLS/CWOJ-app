@@ -124,17 +124,22 @@ public class SettingsActivity extends AppCompatActivity {
                 Log.d(this.toString(), "MotionEvent event = " + event.getAction());
                 // 2 是按下去的状态
                 switch (event.getAction()){
+                    case 0:
                     case 2:
                         ((CardView) view).setCardBackgroundColor(
-                                getResources().getColor(colorSelector.getColorByIndex(position).getColorPressed()));
+                                getResources().getColor(colorSelector.
+                                        getColorByIndex(position).getColorPressed()));
                         ((TextView) ((CardView) view).getChildAt(0)).setTextColor(
-                                getResources().getColor(colorSelector.getColorByIndex(position).getColorNormal()));
+                                getResources().getColor(colorSelector.
+                                        getColorByIndex(position).getColorNormal()));
                         break;
                     default:
                         ((CardView) view).setCardBackgroundColor(
-                                getResources().getColor(colorSelector.getColorByIndex(position).getColorNormal()));
+                                getResources().getColor(colorSelector.
+                                        getColorByIndex(position).getColorNormal()));
                         ((TextView) ((CardView) view).getChildAt(0)).setTextColor(
-                                getResources().getColor(colorSelector.getColorByIndex(position).getColorPressed()));
+                                getResources().getColor(colorSelector.
+                                        getColorByIndex(position).getColorPressed()));
                         break;
                 }
             }
@@ -221,8 +226,8 @@ public class SettingsActivity extends AppCompatActivity {
             }
 
             public void init(cardColorSelector.colorPair pair, String text){
-                cardView.setCardBackgroundColor(pair.getColorNormal());
-                textView.setTextColor(pair.getColorPressed());
+                cardView.setCardBackgroundColor(getResources().getColor(pair.getColorNormal()));
+                textView.setTextColor(getResources().getColor(pair.getColorPressed()));
                 textView.setText(text);
             }
         }

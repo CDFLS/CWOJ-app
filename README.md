@@ -3,14 +3,6 @@
 ====
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 
-让这份来自2015年的怨念![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)残存在README里面吧、、、
-
-我本来在学校的数理实验室![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)搭建了完整的安卓开发环境的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、
-
-因为数理实验室换锁![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)了、、天灾人祸啊简直![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、
-
-我的代码就这么没了！！！ヾ(｡｀Д´｡)啊！！！
-
 好下面咱们说点正经的
 ----
 
@@ -32,19 +24,26 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 - [X] 发现bug
 - [ ] 解决bug
 
+本次更新内容：
+====
+
+### 2016年第一天：
+1. 在[RecyclerView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/activity_settings.xml)里面内置彩色的[CardView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/setting_unit.xml)。
+
+什么？你觉得一个更新少了？卧槽这个玩意弄起来还是很麻烦的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)啊！
+
+
 写在前面:
 ====
 我的Android Studio被[海马玩模拟器](http://droid4x.haimawan.com/?from=000000928)搞坏了，花了很长时间把配置文件重新搞了一遍。。
 
 大家千万不要下载或者使用[这个垃圾模拟器](http://droid4x.haimawan.com/?from=000000928)！切记前人教训！
 
-本次更新内容：
-====
+我本来在学校的数理实验室![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)搭建了完整的安卓开发环境的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、
 
-### 2016年第一天：
-1. 在RecyclerView里面内置彩色的CardView。
+因为数理实验室换锁![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)了、、天灾人祸啊简直![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、
 
-什么？你觉得一个更新少了？卧槽这个玩意弄起来还是很麻烦的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)啊！
+我的代码就这么没了！！！ヾ(｡｀Д´｡)啊！！！
 
 以往更新内容：
 ====

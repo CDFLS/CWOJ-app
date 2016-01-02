@@ -37,8 +37,8 @@ public class cardColorSelector {
     }
 
     public class colorPair {
-        int colorNormal;
-        int colorPressed;
+        private int colorNormal;
+        private int colorPressed;
 
         public colorPair(@ColorRes int colorNormal, @ColorRes int colorPressed) {
             this.colorNormal = colorNormal;
