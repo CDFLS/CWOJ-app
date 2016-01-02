@@ -16,7 +16,7 @@
 
 CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jimmy19990)在搭建，
 
-借助了一个外部的评测框架什么的才不会告诉你呢、、
+借助了一个[外部的评测框架](https://github.com/593141477/bashu-onlinejudge)什么的才不会告诉你呢、、
 
 他性情喜♂怒无常![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)，所以这个webView有时什么都打不开、、这种时候就是他在维护服务器了![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、这怪不得我啊、、
 
