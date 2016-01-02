@@ -16,13 +16,14 @@ public class cardColorSelector {
 
     public cardColorSelector() {
         pairs = new ArrayList<>();
-        pairs.add(new colorPair(R.color.cardColor1, R.color.cardColor1Pressed));
-        pairs.add(new colorPair(R.color.cardColor2, R.color.cardColor2Pressed));
-        pairs.add(new colorPair(R.color.cardColor3, R.color.cardColor3Pressed));
-        pairs.add(new colorPair(R.color.cardColor4, R.color.cardColor4Pressed));
-        pairs.add(new colorPair(R.color.cardColor5, R.color.cardColor5Pressed));
-        pairs.add(new colorPair(R.color.cardColor6, R.color.cardColor6Pressed));
-        pairs.add(new colorPair(R.color.cardColor7, R.color.cardColor7Pressed));
+        pairs.add(new colorPair(R.color.cardColor0, R.color.cardColor0Pressed));
+//        pairs.add(new colorPair(R.color.cardColor1, R.color.cardColor1Pressed));
+//        pairs.add(new colorPair(R.color.cardColor2, R.color.cardColor2Pressed));
+//        pairs.add(new colorPair(R.color.cardColor3, R.color.cardColor3Pressed));
+//        pairs.add(new colorPair(R.color.cardColor4, R.color.cardColor4Pressed));
+//        pairs.add(new colorPair(R.color.cardColor5, R.color.cardColor5Pressed));
+//        pairs.add(new colorPair(R.color.cardColor6, R.color.cardColor6Pressed));
+//        pairs.add(new colorPair(R.color.cardColor7, R.color.cardColor7Pressed));
     }
 
     public colorPair getRandomColor(){

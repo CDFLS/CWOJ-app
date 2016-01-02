@@ -20,6 +20,12 @@
     <color name="cardColor7">#f55200</color>
     <color name="cardColor7Pressed">#7a2501</color>
 
+    <!--根据学长的建议我应该减少太突兀的颜色，所以全部采用这两个-->
+    <color name="cardColor0">#f2f2f2</color>
+    <color name="cardColor0Pressed">#5b5b5b</color>
+
+
     <color name="settingItemColor">#4edcff</color>
+    <color name="backGround">#1b75ea</color>
     <!--<color name="settingItemColorPressed">#748387</color>-->
 </resources>
