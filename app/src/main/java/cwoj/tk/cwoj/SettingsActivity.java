@@ -127,10 +127,14 @@ public class SettingsActivity extends AppCompatActivity {
                     case 2:
                         ((CardView) view).setCardBackgroundColor(
                                 getResources().getColor(colorSelector.getColorByIndex(position).getColorPressed()));
+                        ((TextView) ((CardView) view).getChildAt(0)).setTextColor(
+                                getResources().getColor(colorSelector.getColorByIndex(position).getColorNormal()));
                         break;
                     default:
                         ((CardView) view).setCardBackgroundColor(
                                 getResources().getColor(colorSelector.getColorByIndex(position).getColorNormal()));
+                        ((TextView) ((CardView) view).getChildAt(0)).setTextColor(
+                                getResources().getColor(colorSelector.getColorByIndex(position).getColorPressed()));
                         break;
                 }
             }
@@ -169,9 +173,10 @@ public class SettingsActivity extends AppCompatActivity {
         }
         @Override
         public void onBindViewHolder(final RecyclerView.ViewHolder holder, int position) {
-            ((SettingsViewHolder)holder).textView.setText(Data.get(position));
-            ((SettingsViewHolder)holder).cardView.setCardBackgroundColor(
-                    colorSelector.getColorByIndex(position).getColorNormal());
+            ((SettingsViewHolder)holder).init(
+                    colorSelector.getColorByIndex(position),
+                    Data.get(position)
+            );
 
             // 如果设置了回调，则设置点击事件
             if (onItemClickListener != null) {
@@ -207,12 +212,18 @@ public class SettingsActivity extends AppCompatActivity {
         }
 
         class SettingsViewHolder extends RecyclerView.ViewHolder {
-            CardView cardView;
-            TextView textView;
+            private CardView cardView;
+            private TextView textView;
             public SettingsViewHolder(View itemView) {
                 super(itemView);
                 cardView = (CardView) itemView.findViewById(R.id.cardUnit);
                 textView = (TextView) itemView.findViewById(R.id.cardChild);
+            }
+
+            public void init(cardColorSelector.colorPair pair, String text){
+                cardView.setCardBackgroundColor(pair.getColorNormal());
+                textView.setTextColor(pair.getColorPressed());
+                textView.setText(text);
             }
         }
 

@@ -9,7 +9,7 @@
 
 因为数理实验室换锁![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)了、、天灾人祸啊简直![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、
 
-老子的代码没了！！！ヾ(｡｀Д´｡)啊！！！
+我的代码就这么没了！！！ヾ(｡｀Д´｡)啊！！！
 
 好下面咱们说点正经的
 ----
@@ -29,20 +29,19 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 - [X] RecyclerView内置彩色的CardView
 - [ ] 内置各种奇怪的链接
 - [ ] 本地评测(offline judge)
-- [ ] 发现bug
+- [X] 发现bug
 - [ ] 解决bug
 
 写在前面:
 ====
 我的Android Studio被[海马玩模拟器](http://droid4x.haimawan.com/?from=000000928)搞坏了，花了很长时间把配置文件重新搞了一遍。。
+
 大家千万不要下载或者使用[这个垃圾模拟器](http://droid4x.haimawan.com/?from=000000928)！切记前人教训！
 
 本次更新内容：
 ====
 
-2016年第一天：
-----
-
+### 2016年第一天：
 1. 在RecyclerView里面内置彩色的CardView。
 
 什么？你觉得一个更新少了？卧槽这个玩意弄起来还是很麻烦的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)啊！
