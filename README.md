@@ -3,6 +3,8 @@
 ====
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 
+
+
 好下面咱们说点正经的
 ----
 

@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/cardUnit"
     android:layout_margin="15dp"
-    app:cardElevation="15dp"
+    app:cardElevation="10dp"
     app:cardCornerRadius="2dp"
     app:cardBackgroundColor="@color/cardColor0"
     android:elevation="@dimen/elevation"
