@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/backGround"
     tools:context="cwoj.tk.cwoj.GithubActivity">
 
     <WebView
@@ -14,4 +15,19 @@
 
     <include layout="@layout/fab"/>
 
-</FrameLayout>
+    <TextView
+        tools:showIn="@layout/activity_github"
+        android:id="@+id/noNetwork"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/please_check_network"
+        android:layout_alignParentTop="true"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:layout_marginTop="151dp"
+        />
+
+</RelativeLayout>

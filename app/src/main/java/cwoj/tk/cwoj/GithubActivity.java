@@ -11,13 +11,14 @@ import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.RelativeLayout;
 
-import java.net.MalformedURLException;
 import java.net.URL;
 
 public class GithubActivity extends AppCompatActivity {
 
     private WebView github;
+    private RelativeLayout noNetwork;
     private URL gitURL;
     private String githubURL = "https://github.com/ice1000/CWOJ";
 
@@ -27,6 +28,8 @@ public class GithubActivity extends AppCompatActivity {
         setContentView(R.layout.activity_github);
 
         github = (WebView) findViewById(R.id.github);
+        noNetwork = (RelativeLayout) findViewById(R.id.noNetwork);
+
 //        github.setWebViewClient(new WebViewClient());
 //        github.setWebChromeClient(new WebChromeClient());
 
@@ -36,8 +39,11 @@ public class GithubActivity extends AppCompatActivity {
         else {
             try {
                 gitURL = new URL(githubURL);
-            } catch (MalformedURLException e) {
+                if (gitURL.getFile() == null) throw new Exception();
+            } catch (Exception e) {
                 e.printStackTrace();
+                noNetWorkConnection();
+            } finally {
                 noNetWorkConnection();
             }
             github.loadUrl(githubURL);
@@ -77,7 +83,11 @@ public class GithubActivity extends AppCompatActivity {
     }
 
     private void noNetWorkConnection(){
-        github.loadUrl("file:///android_res/raw/no_network.html");
+
+        github.setVisibility(View.GONE);
+        noNetwork.setVisibility(View.VISIBLE);
+//        github.loadUrl("file:///android_res/raw/no_network.html");
+
     }
 
 }
