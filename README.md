@@ -1,4 +1,4 @@
-# CWOJ :
+     CWOJ 
 [成都外国语学校信息学竞赛在线评测系统](https://www.cwoj.tk/)的移动客户端
 ====
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
@@ -16,7 +16,7 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 成外OJ需要你们的支持！
 
-// TODO:
+* 实现情况：
 ----
 - [X] 极其鬼畜的启动界面![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 - [X] 一个封装了的fab
