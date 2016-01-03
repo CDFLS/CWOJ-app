@@ -20,8 +20,9 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 ----
 - [X] 极其鬼畜的启动界面![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 - [X] 一个封装了的fab
-- [X] RecyclerView内置彩色的CardView
-- [ ] 内置各种奇怪的链接
+- [X] RecyclerView内置可以变成彩色的CardView（根据一个学长的建议，现在是只有白色
+- [X] 内置各种奇怪的链接
+- [ ] 题目下载
 - [ ] 本地评测(offline judge)
 - [X] 发现bug
 - [ ] 解决bug
@@ -29,11 +30,9 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 本次更新内容：
 ====
 
-### 2016年第一天：
-1. 在[RecyclerView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/activity_settings.xml)里面内置彩色的[CardView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/setting_unit.xml)。
-
-什么？你觉得一个更新少了？卧槽这个玩意弄起来还是很麻烦的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)啊！
-
+### 2016年第二天：
+1. 根据一个学长的建议我把设置界面的配色和阴影什么的改了一下下。。哈哈。。</br>
+一切跟着Material Design来。
 
 写在前面:
 ====
@@ -49,6 +48,12 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 以往更新内容：
 ====
+
+### 2016年第一天：
+
+1. 在[RecyclerView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/activity_settings.xml)里面内置彩色的[CardView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/setting_unit.xml)。
+
+什么？你觉得一个更新少了？卧槽这个玩意弄起来还是很麻烦的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)啊！
 
 ### 2016年的第一分钟：
 
