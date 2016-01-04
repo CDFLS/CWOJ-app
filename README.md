@@ -51,7 +51,7 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 1. 封装了[fab(悬浮活动按钮)](https://github.com/ice1000/CWOJ-app/blob/master/app/src/main/res/layout/fab.xml)，成为全方位的跳转神器，就是不知道会不会影响用户体验。。。
 1. 做了一个[启动界面](https://github.com/ice1000/CWOJ-app/blob/master/app/src/main/res/layout/activity_login.xml)、、、
 1. 还有把[本项目的github的URL](https://github.com/ice1000/CWOJ-app)内置进去了
-启动界面依旧鬼畜![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)！<br/>
+启动界面依旧鬼畜![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)哈哈！<br/>
 ### 2015年：<br/>
 1. 已经做好了fab，并且设置界面是MD的RecyclerView、、
 1. 至少它现在有了一些不属于webView的东西了，而且webView其实也是一个多高端的东西<br/>
