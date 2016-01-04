@@ -5,8 +5,6 @@
 ----
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 
-![graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
-
 好下面咱们说点正经的
 ----
 
@@ -16,7 +14,12 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 他性情喜♂怒无常![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)，所以这个webView有时什么都打不开、、这种时候就是他在维护服务器了![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、这怪不得我啊、、
 
-成外OJ需要你们的支持！
+### And there`s also an [OnlineJudge system](https://github.com/moycat/MoyOJ) developed by a friend of mine. : )
+`Notice:Sometimes I uses Ubuntu to edit this file,and the Ubuntu doesn't support Chinese input.That's why I use English rarely. : )`
+
+![graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
+
+成外OJ需要你们的支持: )
 
 * 实现情况：
 ----
