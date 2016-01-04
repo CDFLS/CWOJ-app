@@ -33,8 +33,8 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 ### 2016年第二天：
 1. 根据一个学长的建议我把设置界面的配色和阴影什么的改了一下下。。哈哈。。</br>
  `一切跟着Material Design来。`<br/>
-先把一些抱怨写在前面:
-====
+
+# 先把一些抱怨写在前面:<br/>
 我的Android Studio被[海马玩模拟器](http://droid4x.haimawan.com/?from=000000928)搞坏了，花了很长时间把配置文件重新搞了一遍。。<br/>
 大家千万不要下载或者使用[这个垃圾模拟器](http://droid4x.haimawan.com/?from=000000928)！切记前人教训！<br/>
 我本来在学校的数理实验室![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)搭建了完整的安卓开发环境的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、<br/>
