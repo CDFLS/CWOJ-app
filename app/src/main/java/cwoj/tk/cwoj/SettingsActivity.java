@@ -28,6 +28,7 @@ import util.cardColorSelector;
 
 public class SettingsActivity extends AppCompatActivity {
 
+
     private RecyclerView setting;
     private ArrayList<String> Data;
     private SettingsAdapter adapter;
