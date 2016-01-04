@@ -1,4 +1,4 @@
-                                           `FBI warning`
+                                           FBI warning
 
 
 `federal law provides severe civil and criminal penalties for the unauthorized reproduction,distribution ,or exhibition of copyrighted motion pictures (title 17,united states code,sections 501 and 508),the federal bureau of investigation investigates allegations of criminal copyright infringement (title 17,united states code,section 506)`
@@ -17,8 +17,7 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 他性情喜♂怒无常![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)，所以这个webView有时什么都打不开、、这种时候就是他在维护服务器了![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、这怪不得我啊、、
 
-### And there`s also an [OnlineJudge system](https://github.com/moycat/MoyOJ) developed by a friend of mine. : )
-`Notice:Sometimes I uses Ubuntu to edit this file,and the Ubuntu doesn't support Chinese input.That's why I use English rarely. : )`
+### 同时这里也有一个 [OnlineJudge system](https://github.com/moycat/MoyOJ) 是一个学姐开发的. : )
 
 ![graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
 
