@@ -1,9 +1,11 @@
-     CWOJ 
+                                     'FBI warning'
+
+'CWOJ' 
 [成都外国语学校信息学竞赛在线评测系统](https://www.cwoj.tk/)的移动客户端
-====
+----
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 
-
+[graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
 
 好下面咱们说点正经的
 ----
@@ -32,7 +34,7 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 ### 2016年第二天：
 1. 根据一个学长的建议我把设置界面的配色和阴影什么的改了一下下。。哈哈。。</br>
-一切跟着Material Design来。
+          一切跟着Material Design来。
 
 写在前面:
 ====
