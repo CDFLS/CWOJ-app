@@ -5,7 +5,7 @@
 ----
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
 
-[graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
+![graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
 
 好下面咱们说点正经的
 ----
