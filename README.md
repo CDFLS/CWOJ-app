@@ -39,7 +39,7 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 ### 2016年第二天：
 1. 根据一个学长的建议我把设置界面的配色和阴影什么的改了一下下。。哈哈。。</br>
-          一切跟着Material Design来。
+ `切跟着Material Design来。`
 
 写在前面:
 ====
