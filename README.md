@@ -26,9 +26,10 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 - [ ] 题目下载
 - [ ] 本地评测(offline judge)
 - [X] 发现bug
-- [ ] 解决bug<br/>
-本次更新内容：
-====
+- [ ] 解决bug
+
+
+# 本次更新内容：
 
 ### 2016年第二天：
 1. 根据一个学长的建议我把设置界面的配色和阴影什么的改了一下下。。哈哈。。</br>
@@ -40,8 +41,8 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 我本来在学校的数理实验室![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)搭建了完整的安卓开发环境的![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、<br/>
 因为数理实验室换锁![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)了、、天灾人祸啊简直![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、<br/>
 我的代码就这么没了！！！ヾ(｡｀Д´｡)啊！！！<br/>
-以往更新内容：
-====
+
+# 以往更新内容：
 
 ### 2016年第一天：<br/>
 1. 在[RecyclerView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/activity_settings.xml)里面内置彩色的[CardView](https://github.com/ice1000/CWOJ-app/blob/7a24a5be1d23108ce9e0a53013240a207fd0258d/app/src/main/res/layout/setting_unit.xml)。<br/>
