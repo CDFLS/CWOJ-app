@@ -1,6 +1,6 @@
-                                     `FBI warning`
+                                     FBI warning
 
-`CWOJ`
+# CWOJ is:
 [成都外国语学校信息学竞赛在线评测系统](https://www.cwoj.tk/)的移动客户端
 ----
 喵~~就是这样![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)
