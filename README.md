@@ -17,7 +17,7 @@ CWOJ在线评测平台本身是由[一个高二的学长](https://github.com/jim
 
 他性情喜♂怒无常![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)，所以这个webView有时什么都打不开、、这种时候就是他在维护服务器了![tieba](https://github.com/ice1000/Shootplain/blob/master/app/src/main/res/drawable/graph2.png)、、这怪不得我啊、、
 
-### 同时这里也有一个 [OnlineJudge system](https://github.com/moycat/MoyOJ) 是一个学姐开发的. : )
+### 同时这里也有一个 [在线评测系统](https://github.com/moycat/MoyOJ) 是一个学姐开发的. : )
 
 ![graph](https://raw.githubusercontent.com/moycat/MoyOJ/master/MoyOJ.png)
 
