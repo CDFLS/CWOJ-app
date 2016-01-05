@@ -26,6 +26,8 @@ public class LoginActivity extends Activity {
                 }
                 startActivity(new Intent(LoginActivity.this, MainActivity.class));
                 overridePendingTransition(R.anim.zoom_in, R.anim.zoom_out);
+
+                finish();
             }
         }.start();
     }
